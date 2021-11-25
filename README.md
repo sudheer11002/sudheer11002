@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudheer kumar</h1>
-<h3 align="center">I am an Android Developer from Himachal Pradesh(India). I am passionate about developing applications with new ideas , new technologies and always ready to accept upcoming challenges.</h3>
+<h3 align="center">I am an Android + Hybrid (Flutter) Developer from Himachal Pradesh(India). I am passionate about developing applications with new ideas, new technologies and I am always ready to accept upcoming challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudheer11002&label=Profile%20views&color=0e75b6&style=flat" alt="sudheer11002" /> </p>
 
