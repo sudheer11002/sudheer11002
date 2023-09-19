@@ -1,32 +1,21 @@
-<h1 align="center">Hi 👋, I'm Sudheer kumar</h1>
-<h3 align="center">I am an Android + Hybrid (Flutter) Developer from Himachal Pradesh(India). I am passionate about developing applications with new ideas, new technologies and I am always ready to accept upcoming challenges.</h3>
+<h1 align="center">👋 Hey everyone, I'm Sudheer </h1>
+<p align="center">👋 Hey there, I'm Sudheer, and I'm NOT your average flutter developer. 🚀
+
+👨‍💻 By day, I'm crafting beautiful, functional mobile apps with Flutter. But that's just the tip of the iceberg. I'm also a two-wheeled adventurer, always seeking new horizons on my bike. 🏍️
+
+📷 When I'm not coding or hitting the road, you'll find me behind the lens, capturing moments in time through photography. 📸
+
+💡 I'm not just about the code; I'm passionate about creativity, innovation, and pushing boundaries. Join me on my journey through the tech and photography realms—you never know what exciting project or adventure lies ahead! 🌟.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudheer11002&label=Profile%20views&color=0e75b6&style=flat" alt="sudheer11002" /> </p>
-
-
-
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudheer11002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudheer11002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheer11002&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sudheer11002&theme=radical&hide_border=false&include_all_commits=false&count_private=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=sudheer11002&theme=radical&hide_border=false)<br/>
+
 </div>
-
-
-
-###
-<div>
-  
- ![snake gif](https://github.com/sudheer11002/sudheer11002/blob/output/github-contribution-grid-snake.gif) 
- 
-</div>
-
-<br clear="both">
-
-
-
-<img src="https://raw.githubusercontent.com/sudheer11002/sudheer11002/output/snake.svg" alt="Snake animation" />
 
 ###
 <h3 align="left">Connect with me:</h3>
