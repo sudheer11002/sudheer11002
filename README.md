@@ -16,10 +16,17 @@
 
 
 ###
+<div>
+  
+ ![snake gif](https://github.com/sudheer11002/sudheer11002/blob/output/github-contribution-grid-snake.gif) 
+ 
+</div>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
+<img src="https://raw.githubusercontent.com/sudheer11002/sudheer11002/output/snake.svg" alt="Snake animation" />
 
 ###
 <h3 align="left">Connect with me:</h3>
