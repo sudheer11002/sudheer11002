@@ -12,14 +12,6 @@
 💡 I'm not just about the code; I'm passionate about creativity, innovation, and pushing boundaries. Join me on my journey through the tech and photography realms—you never know what exciting project or adventure lies ahead! 🌟.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudheer11002&label=Profile%20views&color=0e75b6&style=flat" alt="sudheer11002" /> </p>
-<div align="center">
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheer11002&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=sudheer11002&theme=radical&hide_border=false&include_all_commits=false&count_private=false) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sudheer11002&theme=radical&hide_border=false)<br/>
-
-</div>
 
 ###
 <h3 align="left">Connect with me:</h3>
