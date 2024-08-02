@@ -3,9 +3,7 @@
 <img src="https://github.com/sudheer11002/sudheer11002/blob/main/myimg.png" alt="mishmannersgamingroomgif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <br/><br/>
-<p align="center">👋 Hey there, I'm Sudheer, and I'm NOT your average flutter developer. 🚀
-
-👨‍💻 By day, I'm crafting beautiful, functional mobile apps with Flutter. But that's just the tip of the iceberg. I'm also a two-wheeled adventurer, always seeking new horizons on my bike. 🏍️
+<p align="center">👋 Hey there, I'm Sudheer, and I'm NOT your average flutter developer. 👨‍💻 By day, I'm crafting beautiful, functional mobile apps with Flutter 🚀. But that's just the tip of the iceberg. I'm also a two-wheeled adventurer, always seeking new horizons on my bike. 🏍️
 
 📷 When I'm not coding or hitting the road, you'll find me behind the lens, capturing moments in time through photography. 📸
 
